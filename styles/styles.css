@@ -1,12 +1,9 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #1293D4;
 }
-
-
 header {
     display: flex;
     background-color: #333;
@@ -17,7 +14,6 @@ header {
     margin-bottom: 5px;
     width: 100vw;
 }
-
 .navigator {
     display: flex;
     justify-content: center;
@@ -26,7 +22,6 @@ header {
     margin-right: auto;
     line-height: 80px;
 }
-
 nav a {
     color: #fff;
     text-decoration: none;
@@ -34,27 +29,20 @@ nav a {
     font-weight: bold;
     text-transform: uppercase;
 }
-
 nav a:hover {
     color: #1293D4;
     transform: scale(1.05);
 }
-
-
 .title {
     margin: 0 auto;
     line-height: 30px;
 }
-
 .blueTitle {
     color: #1293D4;
 }
-
 .inicio {
     color: #1293D4;
 }
-
-
 .subscribe {
     margin-top: -5px;
     background-color: #333;
@@ -65,12 +53,10 @@ nav a:hover {
     align-items: center;
     width: 100vw;
 }
-
 .text {
     line-height: 40px;
     color: #fff;
 }
-
 .btn {
     width: 100px;
     background-color: #E8491F;
@@ -79,13 +65,10 @@ nav a:hover {
     color: #fff;
     padding: 10px;
 }
-
 .input {
     padding: 8px;
     padding-right: 80px;
 }
-
-
 footer {
     text-align: center;
     line-height: 80px;
@@ -93,13 +76,10 @@ footer {
     width: 100vw;
     color: #fff;
 }
-
-
 .imagen-cabecera-contenedor {
     position: relative;
     width: 100vw;
 }
-
 .imagen-cabecera {
     width: 100%;
     height: auto;
@@ -118,13 +98,10 @@ footer {
     color: #fff;
     margin: 0;
 }
-
 .texto-imagen p {
     color: #fff;
     margin-top: 30px;
 }
-
-
 .trilogy {
     display: flex;
     flex-direction: row;
@@ -134,12 +111,9 @@ footer {
     background-color: rgb(255, 255, 255);
     width: 100vw;
 }
-
 p {
     margin: 0;
 }
-
-
 .html,
 .css,
 .diseño-grafico {
@@ -147,22 +121,17 @@ p {
     background-color: rgb(255, 255, 255);
     text-align: center;
 }
-
 .html img,
 .css img,
 .diseño-grafico img {
     width: 120px;
 }
-
 .html {
     margin-right: -25px;
 }
-
 .diseño-grafico {
     margin-left: -25px;
 }
-
-
 .subscribe-NOSOTROS {
     margin-top: 0px;
     background-color: #333;
@@ -173,43 +142,35 @@ p {
     align-items: center;
     width: 100vw;
 }
-
 .nosotros-content-padre {
     display: flex;
     flex-direction: row;
     width: 100vw;
 }
-
 .div-1 {
     width: 65vw;
     padding: 20px 80px 60px 150px;
     background-color: #fff;
 }
-
 .nosotros-text-1 {
     padding: 20px;
     padding-bottom: 40px;
 }
-
 .nosotros-text-2 {
     background-color: #35424A;
     padding: 20px;
     margin: 20px 0;
 }
-
 .nosotros-text-2 p {
     color: #fff;
 }
-
 .imagen-891-contenedor {
     margin-top: 20px;
     margin-bottom: 5px;
 }
-
 .imagen-891-contenedor img {
     width: 100%
 }
-
 .div-2 {
     display: flex;
     flex-direction: column;
@@ -217,8 +178,6 @@ p {
     padding: 10px 30px;
     background-color: #ffffff;
 }
-
-
 .que-hacemos {
     margin-top: 40px;
     background-color: #35424A;
@@ -227,33 +186,26 @@ p {
     padding-left: 15px;
     border-radius: 2px;
 }
-
 .que-hacemos h2 {
     color: #fff;
     margin-top: 0;
 }
-
 .que-hacemos p {
     color: #fff;
 }
-
-
 .servicios-content-padre {
     display: flex;
     flex-direction: row;
     width: 100vw;
 }
-
 .div-1-textos {
     width: 65vw;
     padding: 40px 50px 80px 80px;
     background-color: #fff;
 }
-
 .div-1-textos h2 {
     margin-left: 5px;
 }
-
 .div-1-texto-1,
 .div-1-texto-2,
 .div-1-texto-3 {
@@ -263,15 +215,12 @@ p {
     border: 1px solid #CCCC;
     border-radius: 2px;
 }
-
-
 .contacto-content-padre {
     display: flex;
     flex-direction: row;
     width: 100vw;
     background-color: #fff;
 }
-
 .contact-form {
     display: flex;
     flex-direction: column;
@@ -280,16 +229,13 @@ p {
     text-align: left;
     padding: 0px 60px 0px 180px;
 }
-
 .contact-form form {
     display: flex;
     flex-direction: column;
 }
-
 .contact-form input {
     background-color: #cccccc1c;
 }
-
 .contact-form input,
 .contact-form textarea,
 .contact-form button {
@@ -299,32 +245,25 @@ p {
     border: 1px solid #ccc;
     border-radius: 1px;
 }
-
 textarea {
     height: 120px;
 }
-
 .contact-form button {
     background-color: #E8491F;
     color: rgb(255, 252, 252);
     border: none;
     cursor: pointer;
 }
-
 .contact-form button:hover {
     background-color: #E8491F;
 }
-
 .mapa-container {
     padding-top: 20px;
 }
-
 .mapa-container img {
     width: 80%;
     padding-bottom: 200px;
 }
-
-
 .inicio-servicios,
 .nosotros-servicios,
 .servicios-servicios,
