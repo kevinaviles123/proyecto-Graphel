@@ -1,4 +1,4 @@
-/* Estilos para el cuerpo de la página */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +6,7 @@ body {
     background-color: #1293D4;
 }
 
-/* Estilos para el encabezado */
+
 header {
     display: flex;
     background-color: #333;
@@ -40,7 +40,7 @@ nav a:hover {
     transform: scale(1.05);
 }
 
-/* Estilos para el título */
+
 .title {
     margin: 0 auto;
     line-height: 30px;
@@ -54,7 +54,7 @@ nav a:hover {
     color: #1293D4;
 }
 
-/* Estilos para el área de suscripción */
+
 .subscribe {
     margin-top: -5px;
     background-color: #333;
@@ -85,7 +85,7 @@ nav a:hover {
     padding-right: 80px;
 }
 
-/* Estilos para el pie de página */
+
 footer {
     text-align: center;
     line-height: 80px;
@@ -94,7 +94,7 @@ footer {
     color: #fff;
 }
 
-/* Estilos para la imagen de cabecera */
+
 .imagen-cabecera-contenedor {
     position: relative;
     width: 100vw;
@@ -124,7 +124,7 @@ footer {
     margin-top: 30px;
 }
 
-/* Estilos para la trilogía */
+
 .trilogy {
     display: flex;
     flex-direction: row;
@@ -139,7 +139,7 @@ p {
     margin: 0;
 }
 
-/* Estilos para las secciones de HTML, CSS y Diseño Gráfico */
+
 .html,
 .css,
 .diseño-grafico {
@@ -162,7 +162,7 @@ p {
     margin-left: -25px;
 }
 
-/* Estilos para la sección Nosotros */
+
 .subscribe-NOSOTROS {
     margin-top: 0px;
     background-color: #333;
@@ -218,7 +218,7 @@ p {
     background-color: #ffffff;
 }
 
-/* Estilos para la sección Qué Hacemos */
+
 .que-hacemos {
     margin-top: 40px;
     background-color: #35424A;
@@ -237,7 +237,7 @@ p {
     color: #fff;
 }
 
-/* Estilos para la sección de Servicios */
+
 .servicios-content-padre {
     display: flex;
     flex-direction: row;
@@ -264,7 +264,7 @@ p {
     border-radius: 2px;
 }
 
-/* Estilos para la sección de Contacto */
+
 .contacto-content-padre {
     display: flex;
     flex-direction: row;
@@ -324,7 +324,7 @@ textarea {
     padding-bottom: 200px;
 }
 
-/* Estilos para los enlaces de navegación */
+
 .inicio-servicios,
 .nosotros-servicios,
 .servicios-servicios,
